@@ -1,0 +1,56 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 16:33:17 Feb 2, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 16:50:03 Feb 4, 2016.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*! SocialCount - v0.1.4 - 2012-12-11
+* https://github.com/filamentgroup/SocialCount
+* Copyright (c) 2012 zachleat; Licensed MIT */
+.sc .socialcount>li,.sc .socialcount>li>a:focus,.sc .socialcount .loading{border-radius:5px;}
+.sc .socialcount{list-style:none;padding-left:0;margin:0;font-size:.875em;line-height:2.2em;overflow:hidden;}
+.sc .socialcount-large{line-height:normal;}
+.sc .socialcount:link,.sc .socialcount:visited{color:inherit;}
+.sc .socialcount>li{display:inline-block;*display:inline;zoom:1;position:relative;vertical-align:top;min-width:80px;text-align:center;white-space:nowrap;*margin-right:4px;}
+.sc .socialcount-small>li{min-width:0;}
+.sc .socialcount-large>li{float:left;margin:0 0.6em 0.6em 0;}
+.sc .socialcount.recommend .facebook{min-width:120px;}
+.sc .socialcount-small.recommend .facebook{min-width:0;}
+.sc .socialcount-large>li,.sc .socialcount-large.recommend .facebook{min-width:105px;}
+.sc .socialcount>li>a{display:block;padding:0 5px;text-decoration:none;color:inherit;}
+.sc .socialcount-small>li>a{padding-left:8px;padding-right:8px;}
+.sc .socialcount-large>li>a{padding:12px 5px 8px;}
+.sc .socialcount .count{color:inherit;position:relative;display:inline-block;*display:inline;zoom:1;text-align:center;margin-left:6px;}
+.sc .socialcount-large .count{display:block;width:100%;margin-left:0;padding-top:10px;}
+.sc .socialcount-small .count{margin-left:0;}
+.sc .socialcount .facebook iframe{height:21px;width:90px;}
+.sc .socialcount.like .facebook iframe{width:48px;}
+.sc .socialcount .button{display:none;width:100%;position:absolute;left:0;bottom:-6px;text-align:center;pointer-events:none;}
+.sc .socialcount .button iframe{pointer-events:auto;}
+.sc .socialcount-large .button{bottom:2px;}
+.sc .socialcount.grade-a>li:hover .count,.sc .socialcount.grade-a>li.hover .count{text-indent:-999px;}
+.sc .socialcount.grade-a>li:hover .button,.sc .socialcount.grade-a>li.hover .button{display:block;}
+.sc .socialcount.grade-a>li:hover>a,.sc .socialcount.grade-a>li.hover>a{cursor:default;}
+.sc .socialcount-small.grade-a>li:hover>a,.sc .socialcount-small.grade-a>li.hover>a,.sc .socialcount.grade-a>li:hover .button iframe,.sc .socialcount.grade-a>li.hover .button iframe{cursor:pointer;}
+.sc .socialcount .loading{position:absolute;left:0;top:0;width:100%;height:100%;z-index:3;background-color:#aaa;background-color:rgba(170, 170, 170, 0.7);color:#000;text-transform:uppercase;font-size:.75em;text-align:center;}
+.sc .socialcount-large .loading{padding-top:30%;}
+.sc .socialcount .loading .dot{display:inline-block;width:6px;height:6px;margin:0 3px;background:#fff;opacity:0;border-radius:50%;-webkit-animation:socialCountLoadingFade .6s infinite;-moz-animation:socialCountLoadingFade .6s infinite;animation:socialCountLoadingFade 0.6s infinite;}
+.sc .socialcount .loading .dot:nth-child(1){-webkit-animation-delay:0s;-moz-animation-delay:0s;animation-delay:0s;}
+.sc .socialcount .loading .dot:nth-child(2){-webkit-animation-delay:.05s;-moz-animation-delay:.05s;animation-delay:0.05s;}
+.sc .socialcount .loading .dot:nth-child(3){-webkit-animation-delay:.1s;-moz-animation-delay:.1s;animation-delay:0.1s;}
+@-webkit-keyframes socialCountLoadingFade{0%{opacity:0;} 50%{opacity:0.8;} 100%{opacity:0;}}@-moz-keyframes socialCountLoadingFade{0%{opacity:0;} 50%{opacity:0.8;} 100%{opacity:0;}}@keyframes socialCountLoadingFade{0%{opacity:0;} 50%{opacity:0.8;} 100%{opacity:0;}}.sc .social-icon{display:inline-block;*display:inline;zoom:1;vertical-align:middle;*margin-right:5px;}
+.sc .socialcount.grade-a>li:hover .social-icon{display:none;}
+.sc .socialcount-small.grade-a>li:hover .social-icon,.sc .socialcount-large.grade-a>li:hover .social-icon{display:inline-block;*display:inline;zoom:1;}
+.sc .icon-sprite,.sc .icon-facebook,.sc .icon-googleplus,.sc .icon-share,.sc .icon-twitter{background:url('/web/20160202163317/http://aspinsiders.com/DesktopModules/SocialCounts/icon-s8df06ae4f6.png') no-repeat;}
+.sc .icon-facebook{background-position:0 0;height:15px;width:17px;}
+.sc .icon-googleplus{background-position:-21px 0;height:17px;width:20px;}
+.sc .icon-share{background-position:-45px 0;height:16px;width:20px;}
+.sc .icon-twitter{background-position:-69px 0;height:15px;width:17px;}
+@media (min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(-webkit-min-device-pixel-ratio:1.5),(min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){.sc .social-icon{-webkit-background-size:auto 17px;-moz-background-size:auto 17px;-o-background-size:auto 17px;background-size:auto 17px;background-image:url('/web/20160202163317/http://aspinsiders.com/DesktopModules/SocialCounts/icon-hd-s9293bc9986.png');}}

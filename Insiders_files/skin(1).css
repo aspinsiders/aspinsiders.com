@@ -1,0 +1,64 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 17:17:17 Feb 1, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 16:50:03 Feb 4, 2016.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+.tb .DNNEmptyPane {
+	display: none;
+}
+.tb .main {
+	display: inline;
+}
+
+.tb #dnn_pnav li {
+  list-style: none;
+}
+.tb .UserPane {
+  text-align: right;
+  list-style-type:none;
+}
+.tb .UserPane ul li {
+  list-style-type:none;
+}
+.tb .clearfix:after {
+     visibility: hidden;
+     display: block;
+     font-size: 0;
+     content: " ";
+     clear: both;
+     height: 0;
+     }
+.tb .clearfix { display: inline-block; }
+/* start commented backslash hack \*/
+.tb * html .clearfix { height: 1%; }
+.tb .clearfix { display: block; }
+/* close commented backslash hack */
+
+.tb .account  {list-style-type:none;}
+
+.tb .pull-right .dropdown-menu:after {
+    left: auto;
+    right: 13px;
+}
+.tb .pull-right .dropdown-menu {
+    left: auto;
+    right: 0;
+}
+.tb .LoginLink {
+	padding-right:18px;
+}
+.tb .userProfileImg {
+	max-height: 200px;
+}
+.tb .DNNEmptyPane {
+  display: none;
+  visibility: hidden;
+}
