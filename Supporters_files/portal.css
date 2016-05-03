@@ -12,6 +12,9 @@
 .Training { background-position: -5px -5px; }
 
 
+.sponsorLogoCell { width:160px; height:50px;}
+.sponsorTextCell { font-size:14px; }
+
 ul.RotatorNav { margin:-74px 0 0 0;}
 ul.RotatorNav li {margin:0;list-style:none;}
 
