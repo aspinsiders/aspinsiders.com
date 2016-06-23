@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head id="Head">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title | escape }} - {{ site.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <meta content="text/javascript" http-equiv="Content-Script-Type">
+  <meta content="text/css" http-equiv="Content-Style-Type">
+  <meta id="MetaCopyright" name="COPYRIGHT" content="Copyright {{ site.time | date: "%Y" }} by AspInsiders">
+  <meta id="MetaAuthor" name="AUTHOR" content="{{ site.title }}">
+  <meta name="RESOURCE-TYPE" content="DOCUMENT">
+  <meta name="DISTRIBUTION" content="GLOBAL">
+  <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
+  <meta name="REVISIT-AFTER" content="1 DAYS">
+  <meta name="RATING" content="GENERAL">
+  <meta http-equiv="PAGE-ENTER" content="RevealTrans(Duration=0,Transition=1)">
+  <style id="StylePlaceholder" type="text/css"></style>
+  <link href="{{ "/assets/css/cosmo.css?v=" | append: site.github.build_revision | prepend: site.baseurl | prepend: site.url }}" rel="stylesheet">
+  <link href="{{ "/assets/css/bootstrap-responsive.css?v=" | append: site.github.build_revision | prepend: site.baseurl | prepend: site.url }}" rel="stylesheet">
+  <link href="{{ "/assets/css/skin.css?v=" | append: site.github.build_revision | prepend: site.baseurl | prepend: site.url }}" rel="stylesheet">
+  <link href="{{ "/assets/css/default.css?v=" | append: site.github.build_revision | prepend: site.baseurl | prepend: site.url }}" rel="stylesheet">
+  <link href="{{ "/assets/css/module.css?v=" | append: site.github.build_revision | prepend: site.baseurl | prepend: site.url }}" rel="stylesheet">
+  <link href="{{ "/assets/css/skin-1.css?v=" | append: site.github.build_revision | prepend: site.baseurl | prepend: site.url }}" rel="stylesheet">
+  <link href="{{ "/assets/css/portal.css?v=" | append: site.github.build_revision | prepend: site.baseurl | prepend: site.url }}" rel="stylesheet">
+  <link href="{{ "/assets/css/socialcount-with-icons.min.css?v=" | append: site.github.build_revision | prepend: site.baseurl | prepend: site.url }}" rel="stylesheet">
+  <link href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" rel="canonical">
+</head>
+<body id="Body">
+  <div class="tb clearfix">
+
+    <div class="row-fluid header">
+      <div class="container">
+        <div id="dnn_LogoPane" class="span4 LogoPane">
+          <a id="dnn_dnnLOGO_hypLogo" title="ASPInsiders Official Home" href="{{ "/" | prepend: site.baseurl | prepend: site.url }}"><img id="dnn_dnnLOGO_imgLogo" src="{{ "/assets/img/logo.gif" | prepend: site.baseurl | prepend: site.url }}" alt="{{ site.title }}" style="border-width:0px;"></a>
+        </div>
+        <div id="dnn_SocialPane" class="span6 SocialPane hidden-tablet hidden-phone">
+          <div class="DnnModule DnnModule-ModulesSocialCounts DnnModule-566">
+            <a name="566"></a>
+            <div id="dnn_ctr566_ContentPane">
+              <div id="dnn_ctr566_ModuleContent" class="DNNModuleContent ModModulesSocialCountsC">
+                <style>
+                  .sc .socialcount {
+                      color: #FFF;
+                  }
+                  .sc .socialcount > li {
+                      background-color: #000;
+                  }
+                  .sc .socialcount > li > a:focus,
+                  .sc .socialcount > li:hover,
+                  .sc .socialcount > li.hover {
+                      background-color: #C0C0C0;
+                  }
+                </style>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row-fluid navigation">
+      <div class="container">
+        <div id="dnn_NavPane" class="span12">
+          <div class="navbar">
+            <div class="navbar-inner">
+              <ul id="dnn_pnav" class="nav">
+                <li class="dropdown"><a href="{{ "/" | prepend: site.baseurl | prepend: site.url }}">Home</a></li>
+                <li class="dropdown"><a href="{{ "/insiders/" | prepend: site.baseurl | prepend: site.url }}">Insiders</a></li>
+                <li class="dropdown"><a href="{{ "/supporters/" | prepend: site.baseurl | prepend: site.url }}">Supporters</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row-fluid main">
+      {{ content }}
+
+      <div class="container">
+        <div id="dnn_DoubleLeftPane" class="span4 DNNEmptyPane"></div>
+        <div class="span8 container">
+          <div class="container">
+            <div id="dnn_DoubleRightLeftPane" class="span4 DNNEmptyPane"></div>
+            <div id="dnn_DoubleRightRightPane" class="span4 DNNEmptyPane"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row-fluid footer">
+      <div class="container">
+        <div id="dnn_FooterPane" class="span12">
+          <span id="dnn_dnnCOPYRIGHT_lblCopyright" class="SkinObject">Copyright {{ site.time | date: "%Y" }} by AspInsiders</span>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <script src="{{ "/assets/js/jquery.min.js?v=" | append: site.github.build_revision | prepend: site.baseurl | prepend: site.url }}" type="text/javascript"></script>
+  <script src="{{ "/assets/js/socialcount.min.js?v=" | append: site.github.build_revision | prepend: site.baseurl | prepend: site.url }}" type="text/javascript"></script>
+  <script src="{{ "/assets/js/bootstrap.min.js?v=" | append: site.github.build_revision | prepend: site.baseurl | prepend: site.url }}" type="text/javascript"></script>
+
+{% if site.google_analytics_enabled %}
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-36622168-1', 'auto');
+    ga('send', 'pageview');
+  </script>
+{% endif %}
+</body>
+</html>
