@@ -1,0 +1,25 @@
+title: "ASPInsiders Official Home"
+
+baseurl: ""
+url: "https://aspinsiders.github.io"
+
+repository: aspinsiders/aspinsiders.github.io
+
+safe: true
+google_analytics_enabled: true
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - serve.sh
+
+gems:
+  - jekyll-redirect-from
+  - jekyll-sitemap
