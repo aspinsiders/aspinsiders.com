@@ -1,8 +1,8 @@
-# aspinsiders.github.io
+# aspinsiders.com
 Public website
 --------------
 
-If you're just browsing, please visit : http://aspinsiders.github.io
+If you're just browsing, please visit: http://aspinsiders.com
 
 
 
