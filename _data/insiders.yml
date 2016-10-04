@@ -1,0 +1,639 @@
+active:
+  - name: Murtaza (Taz) Abdeali
+    url: http://community.infragistics.com/blogs/taz_abdeali/default.aspx
+
+  - name: Luis Abreu
+    url: https://luisabreu.wordpress.com/
+
+  - name: Jason Alexander
+    url: http://jasona.net/
+
+  - name: Brock Allen
+    url: https://brockallen.com/
+
+  - name: Scott Allen
+    url: http://odetocode.com/blogs/scott/
+
+  - name: Mike Amundsen
+    url: http://amundsen.com/blog/
+
+  - name: Rachel Appel
+    url: http://www.rachelappel.com/
+
+  - name: Grant Archibald
+    url: http://www.garchibald.com/blog/
+
+  - name: James Avery
+    url: http://averyblog.com/
+
+  - name: Dominick Baier
+    url: https://leastprivilege.com/
+
+  - name: Adrian Hope-Bailie
+    url: http://ripple.com/
+
+  - name: Kyle Baley
+
+  - name: Michael Banavige
+
+  - name: Tim Barcz
+    url: http://devlicio.us/blogs/tim_barcz/
+
+  - name: Adam Barney
+    url: http://adambarney.com/
+
+  - name: György Balássy
+    url: https://gyorgybalassy.wordpress.com/
+
+  - name: Maarten Balliauw
+    url: http://blog.maartenballiauw.be/
+
+  - name: David Barkol
+    url: http://weblogs.asp.net/davidbarkol
+
+  - name: Serge Baranovsky
+    url: http://vbcity.com/blogs/sergeb/default.aspx
+
+  - name: Keith Barrows
+    url: http://sol3.net/
+
+  - name: Donald Belcham
+    url: http://www.igloocoder.com/
+
+  - name: Ward Bell
+    url: http://www.neverindoubtnet.blogspot.com/
+
+  - name: James C Bender
+    url: http://www.jamescbender.com/
+
+  - name: Mike Benkovich
+    url: http://www.benkotips.com/
+
+  - name: Carl Bergenhem
+    url: http://www.carlbergenhem.com/
+
+  - name: Nathan Blevins
+    url: http://nathanblevins.com/
+
+  - name: Glenn Block
+
+  - name: Peter Blum
+    url: http://www.peterblum.com/
+
+  - name: Jimmy Bogard
+    url: http://jimmybogard.lostechies.com/
+
+  - name: Steve Bohlen (MS)
+    url: http://blog.unhandled-exceptions.com/
+
+  - name: Lee Brandt
+    url: http://leebrandt.me/
+
+  - name: Joe Brinkman
+    url: http://www.theaccidentalgeek.com/
+
+  - name: Michele Bustamante
+    url: http://www.michelelerouxbustamante.com/
+
+  - name: Michael Campbell
+    url: http://blog.angrypets.com/
+
+  - name: Todd Carrico
+
+  - name: Miguel A. Castro
+
+  - name: Scott Cate
+    url: http://www.scottcate.com/
+
+  - name: Jess Chadwick
+    url: http://jesschadwick.blogspot.com/
+
+  - name: Robert Chartier
+    url: http://robchartier.io/
+
+  - name: Simone Chiaretta
+    url: http://codeclimber.net.nz/
+
+  - name: Joel Cochran
+    url: http://joelcochran.com/
+
+  - name: Dana Coffey
+    url: http://www.aspforblondes.com/
+
+  - name: Adam Cogan
+
+  - name: Jonathan Cogley
+    url: https://weblogs.asp.net/jcogley
+
+  - name: Tiberiu Covaci
+    url: http://blog.multi-core.net/
+
+  - name: Ken Cox
+
+  - name: James Crowley
+    url: http://www.jamescrowley.co.uk/
+
+  - name: Mitch Denny
+    url: http://notgartner.com/
+
+  - name: Brian Desmond
+    url: http://www.briandesmond.com/
+
+  - name: Chander Dhall
+    url: http://riaconsultingllc.com/
+
+  - name: Scott Dockendorf
+    url: https://weblogs.asp.net/scottdockendorf
+
+  - name: Kathleen Dollard
+    url: http://msmvps.com/blogs/kathleen/
+
+  - name: Richard Dudley
+    url: http://rjdudley.com/blog
+
+  - name: Jim Duffy
+
+  - name: G. Andrew Duthie
+    url: https://devhammer.net/
+
+  - name: Markus Egger
+
+  - name: Rob Eisenberg
+    url: http://www.durandaljs.com/
+
+  - name: Keith Elder
+    url: http://keithelder.net/
+
+  - name: Gus Emery
+
+  - name: Brendan Enrick
+    url: http://brendan.enrick.com/
+
+  - name: Dino Esposito
+
+  - name: Richard Ersek
+
+  - name: Kirk Allen Evans (MS)
+
+  - name: Donn Felker
+
+  - name: Jarod Ferguson
+    url: http://royaljay.net/
+
+  - name: Scott Forsyth
+    url: https://weblogs.asp.net/owscott
+
+  - name: James Foster
+
+  - name: Jeffrey T. Fritz (MS)
+    url: http://www.csharpfritz.com/
+
+  - name: Alessandro Gallo
+    url: http://aspadvice.com/blogs/garbin
+
+  - name: Jon Galloway (MS)
+    url: http://herdingcode.com/
+
+  - name: Scott Galloway
+    url: http://www.mostlylucid.com/
+
+  - name: Brady Gaster (MS)
+
+  - name: Jason N. Gaylord
+    url: http://jasongaylord.com/
+
+  - name: Barry Gervin
+    url: http://www.objectsharp.com/Barry
+
+  - name: Ken Getz
+
+  - name: David Giard (MS)
+    url: http://davidgiard.com/
+
+  - name: Paul Glavich
+    url: https://weblogs.asp.net/pglavich
+
+  - name: Miguel Angel Gonzalez
+    url: http://www.doesnotcompile.com/
+
+  - name: Jonathan Goodyear
+    url: http://www.angrycoder.com/angrycodercolumn.aspx
+
+  - name: Jeff Graves
+    url: http://jeffgraves.me/
+
+  - name: David Gottlieb
+
+  - name: Kevin Griffin
+    url: http://www.kevgriffin.com/
+
+  - name: Kevin Grossnicklaus
+    url: http://www.architectnow.net/
+
+  - name: Damien Guard
+    url: http://damieng.com/
+
+  - name: Phil Haack
+    url: http://haacked.com/
+
+  - name: Bilal Haidar
+    url: http://blog.bilalhaidar.com/
+
+  - name: Andreas Håkansson
+    url: http://twitter.com/TheCodeJunkie/
+
+  - name: Ben Hall
+    url: http://blog.benhall.me.uk/
+
+  - name: Chris Hardy
+    url: https://weblogs.asp.net/chrishardy
+
+  - name: Jay Harris
+
+  - name: Mehul Harry
+    url: http://mharry.com/
+
+  - name: Eric Hexter
+    url: http://lostechies.com/erichexter
+
+  - name: Alex Homer
+    url: http://www.daveandal.net/alshed.asp
+
+  - name: Anthony van der Hoorn
+    url: http://blog.anthonyvanderhoorn.com/
+
+  - name: Cory House
+    url: http://www.bitnative.com/
+
+  - name: Rob Howard
+
+  - name: Troy Hunt
+    url: https://troyhunt.com/
+
+  - name: Phil Japikse
+    url: http://www.skimedic.com/
+
+  - name: Aaron Jensen
+
+  - name: Anil John
+    url: http://cyberforge.com/weblog/aniltj/
+
+  - name: Peter Johnson
+
+  - name: Robert Johnston
+
+  - name: Kevin Jones
+    url: https://vcsjones.com
+
+  - name: Marcie Jones
+    url: http://www.datagridgirl.com/
+
+  - name: Bipin Joshi
+    url: http://www.bipinjoshi.com/
+
+  - name: Teemu Keiski
+    url: http://blogs.aspadvice.com/joteke
+
+  - name: Peter Kellner
+    url: http://peterkellner.net/
+
+  - name: Don Kiely
+
+  - name: Brad Kingsley
+    url: http://bradkingsley.com/
+
+  - name: Chris Kinsman
+
+  - name: Mac Kloberg
+
+  - name: Chris Klug
+    url: http://chris.59north.com/
+
+  - name: James Kovacs
+
+  - name: Colt Kwong
+    url: https://weblogs.asp.net/ColtK
+
+  - name: Scott Koon
+    url: http://lazycoder.com/
+
+  - name: Kevin Kuebler
+
+  - name: Sebastien Lambla
+    url: http://codebetter.com/sebastienlambla
+
+  - name: Eric Landes
+    url: http://ericlandes.com/
+
+  - name: Ugo Lattanzi
+    url: http://www.tostring.it/
+
+  - name: Bertrand Le Roy
+    url: https://weblogs.asp.net/bleroy/
+
+  - name: Julia Lerman
+    url: http://www.thedatafarm.com/blog
+
+  - name: Rockford Lhotka
+    url: http://www.lhotka.net/
+
+  - name: Ambrose Little
+    url: http://ambroselittle.com/
+
+  - name: Paul Litwin
+    url: http://aspadvice.com/blogs/plitwin/
+
+  - name: Chris Love
+
+  - name: Greg Low
+    url: http://www.sqldownunder.com/
+
+  - name: Javier Lozano
+
+  - name: Magnus Mårtensson
+    url: http://magnusmartensson.com/
+
+  - name: Chris Martin
+
+  - name: Kris van der Mast
+    url: http://blog.krisvandermast.com/
+
+  - name: Shan McArthur
+    url: http://www.shanmcarthur.net/
+
+  - name: Wallace McClure
+    url: https://weblogs.asp.net/wallym
+
+  - name: Jeff McWherter
+
+  - name: Niall Merrigan
+
+  - name: Mark Michaelis
+
+  - name: Steve Michelotti
+    url: http://geekswithblogs.net/michelotti
+
+  - name: Darrel Miller
+    url: http://www.bizcoder.com/
+
+  - name: Jonathan Mills
+    url: http://jonathanfmills.com/
+
+  - name: Scott Mitchell
+
+  - name: Daniel Mohl
+
+  - name: Nik Molnar
+    url: http://nikcodes.com/
+
+  - name: Peter Mourfield
+    url: http://www.mourfield.com/
+
+  - name: Dane Morgridge
+    url: http://danemorgridge.com/
+
+  - name: Terri Morton
+
+  - name: Galen Earl Murdock
+    url: http://www.veracitysolutions.com/
+
+  - name: Anand Narayanaswamy
+    url: https://twitter.com/visualanand
+
+  - name: Michael Neel
+    url: http://www.vinull.com/
+
+  - name: Darren Neimke
+    url: http://showusyourcode.spaces.live.com/
+
+  - name: Doug Nelson
+
+  - name: Russ Nemhauser
+
+  - name: Fredrik Normen
+    url: https://weblogs.asp.net/fredriknormen
+
+  - name: Brian Noyes
+    url: http://briannoyes.net/
+
+  - name: Charles Nurse
+    url: http://www.charlesnurse.com/
+
+  - name: Fritz Onion
+
+  - name: Ryan Olshan
+    url: http://community.strongcoders.com/
+
+  - name: Steve Orr
+
+  - name: Matthew Osborn
+    url: http://osbornm.com/
+
+  - name: Rod Paddock
+
+  - name: Jeffrey Palermo
+
+  - name: Michael Palermo (MS)
+    url: http://www.palermo4.com/
+
+  - name: John Papa
+    url: http://www.johnpapa.net/
+
+  - name: Carey Payette
+    url: http://www.codingbandit.com/
+
+  - name: Chris Pelatari
+    url: http://bluefenix.net/
+
+  - name: David L. Penton
+    url: http://pentonizer.com/
+
+  - name: John Petersen
+
+  - name: Erik Porter
+    url: http://erikporter.com/
+
+  - name: Aaron Powell
+
+  - name: Steve Presley
+    url: http://stevepresley.net/
+
+  - name: Caio Proiete
+    url: http://caioproiete.net/
+
+  - name: Devin Rader
+
+  - name: Dave Reed
+
+  - name: Rachel Reese
+    url: http://rachelree.se/
+
+  - name: Matthew Renze
+    url: http://www.matthewrenze.com/
+
+  - name: Rob Reynolds
+    url: http://ferventcoder.com/
+
+  - name: Ryan Riley
+
+  - name: Peter Ritchie
+    url: http://blog.peterritchie.com/
+
+  - name: Steven Robbins
+    url: http://www.grumpydev.com/
+
+  - name: Eli Robillard
+    url: http://www.erobillard.com/
+
+  - name: Maxime Rouiller
+    url: http://blog.decayingcode.com/
+
+  - name: Justin Rusbatch
+    url: https://twitter.com/jrusbatch
+
+  - name: Scott Sargent
+
+  - name: Ken Schaefer
+
+  - name: Ben Scheirman
+    url: http://flux88.com/
+
+  - name: Gabriel Schenker
+    url: http://www.lostechies.com/gabrielschenker
+
+  - name: Steve Schofield
+
+  - name: Andy Schwam
+    url: http://www.schwammysays.net/
+
+  - name: Michael Schwarz
+    url: http://weblogs.asp.net/mschwarz/
+
+  - name: Justin Self
+    url: http://www.justinself.com/
+
+  - name: Chris Sells
+    url: http://www.sellsbrothers.com/
+
+  - name: Ryan Christensen-Schwarz
+
+  - name: Aaron Seet
+
+  - name: Doug Seven
+
+  - name: James Shaw
+    url: http://www.shawthing.com/
+
+  - name: Malcolm Sheridan
+
+  - name: Craig Shoemaker
+    url: http://polymorphicpodcast.com/
+
+  - name: Andrew Siemer
+    url: http://blog.andrewsiemer.com/
+
+  - name: Bill Simser
+  
+  - name: Jeremy Skinner
+    url: http://www.jeremyskinner.co.uk/
+
+  - name: Aaron Skonnard
+    url: http://pluralsight.com/
+
+  - name: Andy Smith
+
+  - name: Eric J. Smith
+    url: http://www.ericjsmith.net/
+
+  - name: Steven Smith
+    url: http://blogs.aspadvice.com/ssmith/
+
+  - name: Imar Spaanjaars
+    url: http://imar.spaanjaars.com/
+
+  - name: Alan Stevens
+
+  - name: Andrew Stopford
+
+  - name: Rick Strahl
+    url: http://www.west-wind.com/weblog
+
+  - name: Jeff Strauss
+    url: http://www.aranasoft.com/
+
+  - name: Dave Sussman
+    url: http://blogs.ipona.com/davids
+
+  - name: Stephen Swienton
+
+  - name: Ben Tiedt
+    url: http://getben.com/
+
+  - name: Damir Tomicic
+    url: http://tomicic.de/
+
+  - name: Dave Verwer
+
+  - name: Dan Wahlin
+    url: http://www.xmlforasp.net/
+
+  - name: Shaun Walker
+    url: http://www.siliqon.com/
+
+  - name: Stephen Walther
+
+  - name: Dave Wanta
+
+  - name: Dave Ward
+
+  - name: Mike Warriner
+    url: http://www.mikewarriner.com/
+
+  - name: Scott Watermasysk
+    url: http://scottwater.com/
+
+  - name: Christian Wenz
+    url: http://www.arrabiata.com/
+
+  - name: Christian Weyer
+    url: http://weblogs.thinktecture.com/cweyer/
+
+  - name: Derik Whittaker
+    url: http://devlicio.us/blogs/derik_whittaker
+
+  - name: Jeff Widmer
+    url: http://www.townbackyard.com/
+
+  - name: David Wier
+    url: http://aspnet101.com/
+
+  - name: Shawn Wildermuth
+    url: http://wildermuth.com/
+
+  - name: Christoph Wille
+    url: http://chrison.net/
+
+  - name: Chris G. Williams
+
+  - name: Brad Wilson
+    url: http://bradwilson.io/
+
+  - name: Paul Wilson
+
+  - name: Phil Winstanley (MS)
+
+  - name: Spike Xavier
+
+  - name: David Yack
+    url: http://blog.davidyack.com/
+
+  - name: Rob Zelt
+
+memory:
+  - name: Jim Ross
+    url: http://authors.aspalliance.com/jimross
+
+  - name: Doug Reilly
+    url: https://weblogs.asp.net/dreilly
+
+  - name: Francesco Sanfilippo
