@@ -1,0 +1,19 @@
+.insiderList {
+    float: left;
+}
+
+.insiderList ul {
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+    list-style-position: inside;
+}
+
+.insiderList ul li {
+     min-width: 400px;
+}
+
+.windowLeft {
+    float: left;
+    width: 270px;
+}
