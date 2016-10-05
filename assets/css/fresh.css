@@ -1,3 +1,120 @@
+/* Layout */
+
+html, body, blockquote {
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+}
+
+a {
+    color: black;
+}
+
+h3 {
+    line-height: 40px;
+    font-size: 26px;
+    font-weight: 300;
+    color: #080808;
+}
+
+header {
+    margin-top: 15px;
+}
+
+nav {
+    background-color: black;
+    display: block;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+nav ul li a {
+    padding: 15px;
+    display: inline-block;
+    text-decoration: none;
+    color: #FFF;
+    font-weight: normal;
+    font-size: 12px;
+}
+
+nav ul li a:hover {
+    background-color: #333;
+}
+
+#masterFrame {
+    width: 1170px;
+    margin: 0 auto;
+}
+
+#content {
+    padding: 0 15px;
+}
+
+.clearall {
+    clear: both;
+}
+
+@media (max-width: 1170px) {
+    #masterFrame {
+        width: 100%;
+        margin: 0;
+    }
+}
+
+/* End Layout */
+
+/* Index */
+
+.leftQuote {
+    width: 400px;
+    float: left;
+    font-size: 18px;
+}
+
+.leftQuote blockquote {
+    font-style: italic;
+    margin-right: 15px;
+    font-size: 12pt;
+    margin-bottom: 5px;
+}
+
+.rightQuote {
+    float: right;
+    width: calc(100% - 400px);
+}
+
+.rightQuote img {
+    display: inline-block;
+    max-width: 100%;
+}
+
+.authorship {
+    font-weight: bold;
+}
+
+@media (max-width: 950px) {
+    .rightQuote {
+        width: 100%;
+        float: none;
+        margin: 0;
+    }
+
+    .leftQuote {
+        width: 100%;
+        float: none;
+        margin: 0;
+    }
+}
+
+/* Insider's List */
+
 .insiderList {
     float: left;
 }
@@ -7,11 +124,13 @@
     -webkit-columns: 2;
     -moz-columns: 2;
     list-style-position: inside;
+    list-style-type: square;
 }
 
 .insiderList div ul li {
      min-width: 300px;
      white-space: nowrap;
+     padding: 3px 0;
 }
 
 .windowLeft {
