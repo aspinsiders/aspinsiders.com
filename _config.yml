@@ -20,6 +20,6 @@ exclude:
   - Gemfile.lock
   - serve.sh
 
-gems:
+plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
