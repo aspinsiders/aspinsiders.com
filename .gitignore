@@ -9,3 +9,5 @@ Thumbs.db
 #Ignore metadata created by OSX
 .DS_Store
 ._*
+
+.vs/

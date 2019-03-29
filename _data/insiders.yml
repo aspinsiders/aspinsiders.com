@@ -134,7 +134,7 @@ active:
   - name: Ken Cox
 
   - name: James Crowley
-    url: http://www.jamescrowley.co.uk/
+    url: https://www.jamescrowley.net/
 
   - name: Mitch Denny
     url: http://notgartner.com/
@@ -236,6 +236,9 @@ active:
   - name: Damien Guard
     url: http://damieng.com/
 
+  - name: Roland Guijt
+    url: https://rolandguijt.com/
+
   - name: Phil Haack
     url: http://haacked.com/
 
@@ -251,6 +254,9 @@ active:
   - name: Chris Hardy
     url: https://weblogs.asp.net/chrishardy
 
+  - name: Hadi Hariri
+    url: http://hadi.es
+    
   - name: Jay Harris
 
   - name: Mehul Harry
@@ -510,13 +516,16 @@ active:
   - name: Gabriel Schenker
     url: http://www.lostechies.com/gabrielschenker
 
+  - name: Spencer Schneidenbach
+    url: https://schneids.net
+
   - name: Steve Schofield
 
   - name: Andy Schwam
     url: http://www.schwammysays.net/
 
   - name: Michael Schwarz
-    url: http://weblogs.asp.net/mschwarz/
+    url: https://twitter.com/DieApfelFamilie
 
   - name: Justin Self
     url: http://www.justinself.com/
@@ -571,7 +580,10 @@ active:
     url: http://www.west-wind.com/weblog
 
   - name: Jeff Strauss
-    url: http://www.aranasoft.com/
+    url: http://www.jeffreystrauss.com/
+
+  - name: Brian Sullivan
+    url: http://briansullivan.me/
 
   - name: Dave Sussman
     url: http://blogs.ipona.com/davids
@@ -591,6 +603,9 @@ active:
 
   - name: Dan Wahlin
     url: http://www.xmlforasp.net/
+
+  - name: Randy Walker
+    url: https://thesaltykorean.com
 
   - name: Shaun Walker
     url: http://www.siliqon.com/

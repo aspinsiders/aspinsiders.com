@@ -1,7 +1,7 @@
 title: "ASPInsiders Official Home"
 
 baseurl: ""
-url: "http://aspinsiders.com"
+url: "//aspinsiders.com"
 
 repository: aspinsiders/aspinsiders.github.io
 
@@ -20,6 +20,6 @@ exclude:
   - Gemfile.lock
   - serve.sh
 
-gems:
+plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
