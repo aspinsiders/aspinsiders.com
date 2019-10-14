@@ -36,6 +36,7 @@ active:
     url: http://ripple.com/
 
   - name: Kyle Baley
+    url: https://westerndevs.com/bios/kyle_baley/
 
   - name: Michael Banavige
 
@@ -82,6 +83,9 @@ active:
 
   - name: Peter Blum
     url: http://www.peterblum.com/
+
+  - name: Robert Boedigheimer
+    url: http://www.boedie.dev
 
   - name: Jimmy Bogard
     url: http://jimmybogard.lostechies.com/
@@ -262,6 +266,8 @@ active:
   - name: Mehul Harry
     url: http://mharry.com/
 
+  - name: Glenn Henriksen
+
   - name: Eric Hexter
     url: http://lostechies.com/erichexter
 
@@ -427,6 +433,9 @@ active:
 
   - name: Fredrik Normen
     url: https://weblogs.asp.net/fredriknormen
+
+  - name: Oren Novotny
+    url: https://oren.codes
 
   - name: Brian Noyes
     url: http://briannoyes.net/
@@ -652,6 +661,8 @@ active:
 
   - name: Phil Winstanley (MS)
 
+  - name: Toi B. Wright
+ 
   - name: Spike Xavier
 
   - name: David Yack
