@@ -11,9 +11,6 @@ active:
   - name: Brock Allen
     url: https://brockallen.com/
 
-  - name: Scott Allen
-    url: http://odetocode.com/blogs/scott/
-
   - name: Mike Amundsen
     url: http://amundsen.com/blog/
 
@@ -674,6 +671,9 @@ active:
   - name: Rob Zelt
 
 memory:
+  - name: Scott Allen
+    url: http://odetocode.com/blogs/scott/
+
   - name: Jim Ross
     url: http://authors.aspalliance.com/jimross
 
