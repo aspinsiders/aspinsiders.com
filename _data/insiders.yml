@@ -11,9 +11,6 @@ active:
   - name: Brock Allen
     url: https://brockallen.com/
 
-  - name: Scott Allen
-    url: http://odetocode.com/blogs/scott/
-
   - name: Mike Amundsen
     url: http://amundsen.com/blog/
 
@@ -36,6 +33,7 @@ active:
     url: http://ripple.com/
 
   - name: Kyle Baley
+    url: https://westerndevs.com/bios/kyle_baley/
 
   - name: Michael Banavige
 
@@ -82,6 +80,9 @@ active:
 
   - name: Peter Blum
     url: http://www.peterblum.com/
+
+  - name: Robert Boedigheimer
+    url: http://www.boedie.dev
 
   - name: Jimmy Bogard
     url: http://jimmybogard.lostechies.com/
@@ -262,6 +263,8 @@ active:
   - name: Mehul Harry
     url: http://mharry.com/
 
+  - name: Glenn Henriksen
+
   - name: Eric Hexter
     url: http://lostechies.com/erichexter
 
@@ -298,7 +301,7 @@ active:
   - name: Robert Johnston
 
   - name: Kevin Jones
-    url: https://vcsjones.com
+    url: https://vcsjones.dev
 
   - name: Marcie Jones
     url: http://www.datagridgirl.com/
@@ -428,6 +431,9 @@ active:
   - name: Fredrik Normen
     url: https://weblogs.asp.net/fredriknormen
 
+  - name: Claire Novotny (MS)
+    url: https://claires.site
+
   - name: Brian Noyes
     url: http://briannoyes.net/
 
@@ -473,8 +479,8 @@ active:
   - name: Steve Presley
     url: http://stevepresley.net/
 
-  - name: Caio Proiete
-    url: http://caioproiete.net/
+  - name: C. Augusto Proiete
+    url: https://augustoproiete.net/
 
   - name: Devin Rader
 
@@ -628,6 +634,9 @@ active:
   - name: Christian Weyer
     url: http://weblogs.thinktecture.com/cweyer/
 
+  - name: Sean Whitesell
+    url: http://seanwhitesell.com
+
   - name: Derik Whittaker
     url: http://devlicio.us/blogs/derik_whittaker
 
@@ -652,6 +661,8 @@ active:
 
   - name: Phil Winstanley (MS)
 
+  - name: Toi B. Wright
+ 
   - name: Spike Xavier
 
   - name: David Yack
@@ -660,6 +671,9 @@ active:
   - name: Rob Zelt
 
 memory:
+  - name: Scott Allen
+    url: http://odetocode.com/blogs/scott/
+
   - name: Jim Ross
     url: http://authors.aspalliance.com/jimross
 
