@@ -158,7 +158,7 @@ table.supporters tr {
     margin:20px 0px;
 }
 
-table.supporters tr td {
+table.supporters tr td:first-child {
     text-align:center;
 }
 
