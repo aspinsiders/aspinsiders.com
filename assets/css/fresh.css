@@ -148,3 +148,21 @@ nav ul li a:hover {
       width: 100%;
   }
 }
+
+/* Supporters */
+table.supporters {
+    border-style: none;
+}
+
+table.supporters tr {
+    margin:20px 0px;
+}
+
+table.supporters tr td {
+    text-align:center;
+}
+
+table.supporters img {
+    max-width:300px;
+    max-height:150px;
+}

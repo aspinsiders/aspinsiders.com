@@ -1,11 +1,11 @@
 - name: Microsoft ASP.NET
   url: https://www.asp.net/
-  image: "/assets/img/supporters/aspnet.gif"
+  image: "/assets/img/supporters/dotnet-logo.png"
   description: Microsoft is the primary supporter of the ASPInsiders. They share many of their products and seek the input of the ASPInsiders particularly for assistance in the ongoing development of their ASP.NET technologies.
 
 - name: Redgate
   url: "https://www.red-gate.com"
-  image: "/assets/img/supporters/red-gate.gif"
+  image: "/assets/img/supporters/redgate.png"
   description: Redgate produces "simple tools for Microsoft developers, testers, and DBAs." They support the ASPInsiders by sharing their unparalelled SQL tools and their ANTS profiler tool.
 
 - name: Progress Telerik
@@ -30,7 +30,7 @@
   
 - name: Pluralsight
   url: https://pluralsight.com/training/
-  image: "/assets/img/supporters/pluralsight.png"
+  image: "/assets/img/supporters/pluralsight-new.png"
   description: Pluralsight is the global leader in high-quality online training for hardcore developers. The revolutionary Pluralsight training library provides developers with instant access to a rich collection of online training courses delivered by industry authorities. See what you can learn at pluralsight.com and join the <a href="http://www.twitter.com/pluralsight">@pluralsight</a> community on Twitter.
 
 - name: Aspose
