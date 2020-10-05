@@ -7,45 +7,19 @@ redirect_from: /Supporters.aspx/
 
 <table style="border-style: none;" cellpadding="10" cellspacing="5">
 <tbody>
+  {% for supporter in site.data.supporters %}
   <tr>
-    <td><a href="https://www.asp.net"><img style="border-style: none; width: 160px; height: 50px;" alt="Microsoft ASP.NET" src="{{ "/assets/img/supporters/aspnet.gif" | prepend: site.baseurl | prepend: site.url }}"></a></td>
-    <td>Microsoft is the primary supporter of the ASPInsiders. They share many of their products and seek the input of the ASPInsiders particularly for assistance in the ongoing development of their ASP.NET technologies.</td>
+    <td>
+      {% if supporter.url %}
+      <a href="{{ supporter.url }}">
+      {% endif %}
+      <img alt="{{ supporter.name }}" src="{{ supporter.image | prepend: site.baseurl | prepend: site.url }}">
+      {% if supporter.url %}
+      </a>
+      {% endif %}
+    </td>
+    <td>{{ supporter.description }}</td>
   </tr>
-  <tr>
-    <td><a href="https://www.red-gate.com"><img style="border-style: none; width: 160px; height: 49px;" alt="red-gate software" src="{{ "/assets/img/supporters/red-gate.gif" | prepend: site.baseurl | prepend: site.url }}"></a></td>
-    <td>red-gate software produces "simple tools for Microsoft developers, testers, and DBAs." They support the ASPInsiders by sharing their unparalelled SQL tools and their ANTS profiler tool.</td>
-  </tr>
-  <tr>
-    <td><img alt="" src="{{ "/assets/img/supporters/telerik.png" | prepend: site.baseurl | prepend: site.url }}" style="width: 160px; height: 64px;"><br></td>
-    <td>Telerik is a fast-growing vendor of reusable .NET components for rapid development of websites and web-applications. They support the ASPInsiders, sharing their extensive suite of .NET components.</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.9rays.net/"><img style="border-style: none; width: 160px; height: 60px;" alt="9Rays.Net" src="{{ "/assets/img/supporters/9rays.gif" | prepend: site.baseurl | prepend: site.url }}"></a></td>
-    <td>Founded in 2001, 9Rays.Net has gained wide experience on the tools and components market, developing high-quality products for the following platforms: Microsoft. NET (Windows.Forms and ASP.Net), Borland Delphi, C++ Builder, ActiveX. The company's primary product focus is on development of .Net tools and components compatible with Visual Studio .Net, C# Builder, Delphi.Net and other IDEs for .Net Framework.</td>
-  </tr>
-  <tr>
-    <td><img alt="" src="{{ "/assets/img/supporters/infragistics.jpg" | prepend: site.baseurl | prepend: site.url }}" style="width: 150px; height: 108px;"><br></td>
-    <td>Infragistics is the world leader in presentation layer components. They empower developers and designers to create stunning user interfaces with ease through their controls, components, and tools for .NET and Java and are proud to support the ASPInsiders with their flagship product suite, <a href="http://www.infragistics.com/dotnet/netadvantage.aspx">NetAdvantage for .NET</a>.</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.devexpress.com/"><img alt="" src="{{ "/assets/img/supporters/dxr.png" | prepend: site.baseurl | prepend: site.url }}" style="width: 216px; height: 42px;"></a><br></td>
-    <td>Developer Express engineers feature-complete visual components and IDE tools for Visual Studio .NET. Our technologies help you build your best, see complex software with greater clarity, increase your productivity and create stunning applications for Windows and the Web in the shortest possible time. All of our products come with a 60 day unconditional money back guarantee and fully functional evaluation versions are available for download at <a href="http://www.devexpress.com">www.devexpress.com</a>.</td>
-  </tr>
-  <tr>
-    <td><a href="https://pluralsight.com/training/"><img alt="" src="{{ "/assets/img/supporters/pluralsight.png" | prepend: site.baseurl | prepend: site.url }}"></a><br></td>
-    <td>Pluralsight is the global leader in high-quality online training for hardcore developers. The revolutionary Pluralsight training library provides developers with instant access to a rich collection of online training courses delivered by industry authorities. See what you can learn at pluralsight.com and join the <a href="http://www.twitter.com/pluralsight">@pluralsight</a> community on Twitter.</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.aspose.com"><img alt="" src="{{ "/assets/img/supporters/aspose.png" | prepend: site.baseurl | prepend: site.url }}"></a></td>
-    <td>Aspose is a leading vendor of .NET, Java, SharePoint development components, and rendering extensions for platforms such as Microsoft SQL Server Reporting Services and JasperReports. Aspose's core focus is to offer the most complete and powerful set of file management products on the market. Aspose products support some of the most popular file formats in business, including: Word documents, Excel spreadsheets, PowerPoint presentations, PDF documents, Microsoft Visio diagrams and Microsoft Project files. We also offer OCR and image manipulation tools.</td>
-  </tr>
-  <tr>
-    <td><a href="https://jetbrains.com"><img alt="" src="{{ "/assets/img/supporters/jetbrains.png" | prepend: site.baseurl | prepend: site.url }}"></a></td>
-    <td>JetBrains is widely known for its innovative .NET developer tools such as ReSharper for Visual Studio and Rider, a fast and feature-rich cross-platform IDE with a deep understanding of all .NET languages and technologies. JetBrains supports ASP Insiders providing complimentary licenses for ReSharper Ultimate, Rider, and/or WebStorm. To claim your complimentary product license, please complete <a href="https://www.jetbrains.com/community/support/#section=mvps-partnership">this request form</a> on the official JetBrains website.</td>
-  </tr>
-  <tr>
-    <td><a href="https://elmah.io"><img alt="elmah.io" src="{{ "/assets/img/supporters/elmahio.png" | prepend: site.baseurl | prepend: site.url }}" style="width: 212px; height: 130px;"></a></td>
-    <td>elmah.io is a cloud-based error management and logging tool for .NET web developers. By combining both client and serverside error logging with uptime checks and deployment tracking, you will get the perfect overview of the current state of your applications. elmah.io supports ASP Insiders with a free personal subscription for elmah.io. Please visit our <a href="https://elmah.io/sponsorship/aspinsiders/">ASPInsiders Sponsorship</a> page for details and get in contact through the support widget, to claim your free subscription.</td>
-  </tr>
+  {% endfor %}
 </tbody>
 </table>
